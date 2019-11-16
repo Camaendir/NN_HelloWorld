@@ -1,3 +1,6 @@
 /venv/
 /resources/
 /.idea/
+/LoadingOwnData/X.pickle
+/LoadingOwnData/y.pickle
+/LoadingOwnData/OwnTestData/
